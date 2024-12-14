@@ -17,7 +17,7 @@ Welcome to the **Claire** Discord bot repository! Claire is your charming and pr
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/claire-discord-bot.git
+   git clone https://github.com/accelbia/claire-san.git
    ```
 
 2. Navigate to the project directory:
@@ -34,7 +34,7 @@ Welcome to the **Claire** Discord bot repository! Claire is your charming and pr
    ```json
    {
      "token": "YOUR_DISCORD_BOT_TOKEN",
-     "prefix": "!"  // or any other command prefix you prefer
+     "prefix": "!"
    }
    ```
 
