@@ -1,6 +1,6 @@
-# Claire - Guild Receptionist Discord Bot
+# Claire-san - Your Guild Receptionist Discord Bot
 
-Welcome to the **Claire** Discord bot repository! Claire is your charming and professional guild receptionist, ready to assist adventurers with their quests, manage project requests, and add a touch of cuteness to your server.
+Welcome to the **Claire-san** Discord bot repository! Claire is your charming and professional guild receptionist, ready to assist adventurers with their quests, manage project requests, and add a touch of cuteness to your server.
 
 ## Features
 - **Quest Handling**: Assigns projects based on member skills.
